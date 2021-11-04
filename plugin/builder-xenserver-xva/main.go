@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/mitchellh/packer/packer/plugin"
-	"github.com/xenserver/packer-builder-xenserver/builder/xenserver/xva"
+	"github.com/paigeadam/packer-builder-xenserver/builder/xenserver/xva"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	log "github.com/Sirupsen/logrus"
-	"github.com/nilshell/xmlrpc"
+	"github.com/kolo/xmlrpc"
 )
 
 type XenAPIClient struct {

@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/xenserver/packer-builder-xenserver",
+	"ImportPath": "github.com/paigeadam/packer-builder-xenserver",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Packages": [
@@ -150,7 +150,7 @@
 			"Rev": "eecf4c70c626c7cfbb95c90195bc34d386c74ac6"
 		},
 		{
-			"ImportPath": "github.com/nilshell/xmlrpc",
+			"ImportPath": "github.com/kolo/xmlrpc",
 			"Rev": "41b9444050f7a0494a44cd5644f5048aa8261b17"
 		},
 		{
@@ -179,7 +179,7 @@
 			"Rev": "646ae4a518c1c3be0739df898118d9bccf993858"
 		},
 		{
-			"ImportPath": "github.com/xenserver/go-xenserver-client",
+			"ImportPath": "github.com/paigeadam/go-xenserver-client",
 			"Rev": "42dc9035c2e805b844614741d804f308bacb7490"
 		},
 		{

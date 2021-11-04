@@ -10,7 +10,7 @@ import (
 	"github.com/mitchellh/packer/common"
 	commonssh "github.com/mitchellh/packer/common/ssh"
 	"github.com/mitchellh/packer/template/interpolate"
-	xsclient "github.com/xenserver/go-xenserver-client"
+	xsclient "github.com/paigeadam/go-xenserver-client"
 )
 
 type CommonConfig struct {

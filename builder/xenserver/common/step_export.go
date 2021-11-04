@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/mitchellh/multistep"
 	"github.com/mitchellh/packer/packer"
-	xsclient "github.com/xenserver/go-xenserver-client"
+	xsclient "github.com/paigeadam/go-xenserver-client"
 	"io"
 	"net/http"
 	"os"

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"github.com/nilshell/xmlrpc"
+	"github.com/kolo/xmlrpc"
 	"log"
 	"regexp"
 )

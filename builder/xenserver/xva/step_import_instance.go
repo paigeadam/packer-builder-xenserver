@@ -6,8 +6,8 @@ import (
 
 	"github.com/mitchellh/multistep"
 	"github.com/mitchellh/packer/packer"
-	xsclient "github.com/xenserver/go-xenserver-client"
-	xscommon "github.com/xenserver/packer-builder-xenserver/builder/xenserver/common"
+	xsclient "github.com/paigeadam/go-xenserver-client"
+	xscommon "github.com/paigeadam/packer-builder-xenserver/builder/xenserver/common"
 )
 
 type stepImportInstance struct {

@@ -35,8 +35,8 @@ resulting binary.
 
 ```shell
 cd $GOROOT
-mkdir -p src/github.com/xenserver/
-cd src/github.com/xenserver
+mkdir -p src/github.com/paigeadam/
+cd src/github.com/paigeadam
 git clone https://github.com/xenserver/packer-builder-xenserver.git
 cd packer-builder-xenserver
 ./build.sh
