@@ -15,7 +15,7 @@ import (
 	"github.com/mitchellh/packer/packer"
 	"github.com/mitchellh/packer/template/interpolate"
 	xsclient "github.com/paigeadam/go-xenserver-client"
-	xscommon "github.com/paigeadam/packer-builder-xenserver/builder/paigeadam/common"
+	xscommon "github.com/paigeadam/packer-builder-xenserver/builder/xenserver/common"
 )
 
 type config struct {
